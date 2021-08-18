@@ -1,0 +1,24 @@
+div {
+  text-align: center;
+}
+h1 {
+  font-size: 200%;
+  color: red;
+}
+h2 {
+  font-size: 150%;
+  color: navy;
+}
+p {
+  font-size: 100%;
+  color: black;
+  font-family: 'Jua', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+}
+li {
+  font-size: 150%;
+  color: red ;
+}
+h5 {
+  text-align: right
+}
